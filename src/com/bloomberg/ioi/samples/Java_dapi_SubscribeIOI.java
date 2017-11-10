@@ -68,7 +68,7 @@ public class Java_dapi_SubscribeIOI
 
     public static void main(String[] args) throws IOException
     {
-        System.out.println("Bloomberg - IOI API Example - SubscribeIOI\n");
+        System.out.println("Bloomberg - IOI API Example - DesktopAPI - SubscribeIOI\n");
         System.out.println("Press ENTER at anytime to quit");
 
         Java_dapi_SubscribeIOI example = new Java_dapi_SubscribeIOI();
